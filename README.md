@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Diloane&color=green)
 
-Eu sou full stack plano trabalho atualmente com AngularJS, Java e Oracle, dentre outras tecnologias.<br>
-Atualmente estou estudando mais sobre Spring Boot, API Rest e JavaScript/Angular.
+Sou desenvolvedor Full-Stack, com mais de 5 anos de experiência em programação, formado em Sistema de Informação e com Pós Graduação em Engenharia de Software. Possuo conhecimentos em Java, Spring(Boot, Data..), JavaScript Vanilla, AngularJS, Angular 6, JSP, JSF, Git, SQL Server, Oracle. Experiência em migração de dados e contato com o cliente. 
+Atualmente estou melhorando meus conhecimentos em Spring Framework, RESTful e Angular, além das boas práticas do Clean Code.
 
 
 ## Conecte-se comigo:
